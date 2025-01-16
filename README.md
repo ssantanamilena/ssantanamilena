@@ -5,7 +5,7 @@
 
 - 🌱 Aprendendo **Python e Machine Learning**
 
-- 💬 Me pergunte sobre **Excel, SAS, R e SQL**
+- 💬 Me pergunte sobre **Excel, Power Bi, SAS e SQL**
 
 - 📫 Você pode me encontrar através do e-mail **miimillena28@gmail.com**
 
