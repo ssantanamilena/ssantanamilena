@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou a Milena</h1>
-<h3 align="center">Aprendendo e me dedicando cada dia mais a Ciência de Dados.</h3>
+<h3 align="center">Aprendendo e me dedicando cada dia mais a Engenharia de Dados.</h3>
 
 - 🔭 Analista de Gestão de Eficiência na Bradesco Seguros.
 
