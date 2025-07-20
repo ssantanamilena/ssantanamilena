@@ -1,11 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou a Milena</h1>
 <h3 align="center">Aprendendo e me dedicando cada dia mais a Ciência de Dados.</h3>
 
-- 🔭 Estagiária na Bradesco Seguros no setor contábil
+- 🔭 Analista de Gestão de Eficiência na Bradesco Seguros.
 
-- 🌱 Aprendendo **Python e Machine Learning**
-
-- 💬 Me pergunte sobre **Excel, Power Bi, SAS e SQL**
+- 🌱 Aspirante a Engenheira de Dados.
 
 - 📫 Você pode me encontrar através do e-mail **miimillena28@gmail.com**
 
