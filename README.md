@@ -7,7 +7,12 @@
 
 - 📖 Leia meus artigos no Medium : https://medium.com/@miimillena28  
 
-- 📫 Você pode me encontrar através:  
+- 📫 Você pode me encontrar através:
+
+<a href = "https://www.linkedin.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+</a>
+           
     www.linkedin.com/in/ssantanamilena  
     miimillena28@gmail.com  
     11 97848-2047   
