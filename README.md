@@ -1,21 +1,39 @@
-<h1 align="center">Olá 👋, Eu sou a Milena</h1>
-<h3 align="center">Aprendendo e me dedicando cada dia mais a Engenharia de Dados.</h3>
+<h1 align="center">Olá 👋, Eu sou a Milena</h1>  
+<h3 align="center">Aprendendo e me dedicando cada dia mais a Engenharia de Dados.</h3>  
 
-- 🔭 Analista de Gestão de Eficiência na Bradesco Seguros.
+- 🔭 Analista de Gestão de Eficiência na Bradesco Seguros.  
 
-- 🌱 Aspirante a Engenheira de Dados.
+- 🌱 Aspirante a Engenheira de Dados com foco em Segurança de Dados.  
 
-- 📫 Você pode me encontrar através do e-mail **miimillena28@gmail.com**
+- 📖 Leia meus artigos no Medium : https://medium.com/@miimillena28  
 
-<!---
-- 👀 I’m interested in ...
-- 🌱 Aprendendo **Python e Machine Learning**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Você pode me encontrar através:  
+    www.linkedin.com/in/ssantanamilena  
+    miimillena28@gmail.com  
+    11 97848-2047   
 
-<!---
-ssantanamilena/ssantanamilena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" /> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" width = "50" />
+
+
+          
+          
+          
+          
+          
