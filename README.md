@@ -2,7 +2,7 @@
 
 ## **`Engenheira de dados`**  |  **`Segurança de dados`**    
 💻.🔐.☁️.📊   
-### Apaixonada por aprendizado contínuo e tecnologia.
+### 💜 Apaixonada por aprendizado contínuo e tecnologia 💜
 ### 🎓 Graduanda em **Ciência da Computação.** 
 ### 🌱 Em constante evolução, estudando **Engenharia de Dados** e **Cibersegurança**, com foco em **Segurança de Dados.** 
 ### 🔭 Atualmente sou Analista de Gestão de Eficiência na Bradesco Seguros. 
