@@ -12,7 +12,54 @@ Apaixonada por aprendizado contínuo e tecnologia.
     www.linkedin.com/in/ssantanamilena  
     miimillena28@gmail.com  
     11 97848-2047  
+---
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="PYTHON"
+    title="" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+        
+<img 
+    align="left" 
+    alt="APACHE KAFKA" 
+    title="APACHE KAFKA"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg" />
+
+<img 
+    align="left" 
+    alt="APACHE SPARK" 
+    title="APACHE SPARK"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original.svg" 
+    />     
+
+<img 
+    align="left" 
+    alt="AZURE" 
+    title="AZURE"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" 
+    />    
+
+<br/>
+<br/>
+---
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ssantanamilena/ssantanamilena/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ssantanamilena/ssantanamilena/output/github-contribution-grid-snake-dark.svg">
