@@ -1,19 +1,18 @@
 # Olá 👋, Eu sou a Milena
 
-**`Engenheira de dados`**   **`Segurança de dados`**    
-    💻.🔐.☁️.📊   
+## **`Engenheira de dados`**  |  **`Segurança de dados`**    
+💻.🔐.☁️.📊   
+### Apaixonada por aprendizado contínuo e tecnologia.
+### 🎓 Graduanda em **Ciência da Computação.** 
+### 🌱 Em constante evolução, estudando **Engenharia de Dados** e **Cibersegurança**, com foco em **Segurança de Dados.** 
+### 🔭 Atualmente sou Analista de Gestão de Eficiência na Bradesco Seguros. 
+### 🚀 Aspirante a Engenheira de Dados, determinada a construir uma carreira sólida em dados e segurança. 
+### 📫 Você pode me encontrar através: 
+### 📥 www.linkedin.com/in/ssantanamilena  
+### 📬 miimillena28@gmail.com  
+### 📱 11 97848-2047  
 
-Apaixonada por aprendizado contínuo e tecnologia.  
-🎓 Graduanda em **Ciência da Computação.**  
-🌱 Em constante evolução, estudando **Engenharia de Dados** e **Cibersegurança**, com foco em **Segurança de Dados.**  
-🔭 Atualmente sou Analista de Gestão de Eficiência na Bradesco Seguros.  
-🚀 Aspirante a Engenheira de Dados, determinada a construir uma carreira sólida em dados e segurança.  
-📫 Você pode me encontrar através:  
-    www.linkedin.com/in/ssantanamilena  
-    miimillena28@gmail.com  
-    11 97848-2047  
----
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias  
 
 <img 
     align="left" 
