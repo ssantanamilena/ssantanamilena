@@ -22,6 +22,16 @@
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="PYTHON"
+    title="" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="SQL" 
