@@ -68,8 +68,8 @@
 
 <img 
     align="left" 
-    alt="AZURE" 
-    title="AZURE"
+    alt="AWS" 
+    title="AWS"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
