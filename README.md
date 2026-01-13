@@ -1,12 +1,12 @@
 # Olá 👋, Eu sou a Milena
 
-## **`Engenheira de dados`**  |  **`Segurança de dados`**    
+## **`Desenvolvedora Back-End`**  |  **`Segurança de dados`**    
 💻.🔐.☁️.📊   
 ### 💜 Apaixonada por aprendizado contínuo e tecnologia 💜
 ### 🎓 Graduanda em **Ciência da Computação.** 
-### 🌱 Em constante evolução, estudando **Engenharia de Dados** e **Cibersegurança**, com foco em **Segurança de Dados.** 
+### 🌱 Em constante evolução, estudando **Arquitetura de Software** e **Cibersegurança**, com foco em **Segurança de Dados.** 
 ### 🔭 Atualmente sou Analista de Gestão de Eficiência na Bradesco Seguros. 
-### 🚀 Aspirante a Engenheira de Dados, determinada a construir uma carreira sólida em dados e segurança. 
+### 🚀 Entusiasmada e determinada a construir uma carreira sólida em dados e segurança. 
 ### 📫 Você pode me encontrar através: 
 ### 📥 www.linkedin.com/in/ssantanamilena  
 ### 📬 miimillena28@gmail.com  
@@ -25,7 +25,7 @@
 
 <img 
     align="left" 
-    alt="PYTHON"
+    alt="GO"
     title="" 
     width="40px" 
     style="padding-right: 10px;" 
