@@ -6,7 +6,7 @@
 
 
 
-### 🌱 Em constante evolução nas áreas de Data Science, Engenharia de Dados e Segurança da Informação, com foco em Python, SQL, Machine Learning, estatística e arquitetura de dados.
+### 🌱 Em constante evolução nas áreas de Ciência de dados, Engenharia de Dados e Segurança da Informação, com foco em Python, SQL, Machine Learning, estatística e arquitetura de dados.
 
 
 
