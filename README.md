@@ -1,12 +1,22 @@
 # Olá 👋, Eu sou a Milena
 
-## **`Desenvolvedora Back-End`**  |  **`Segurança de dados`**    
+## **`Data Scientist`**  |  **`Segurança de dados`**    
 💻.🔐.☁️.📊   
-### 💜 Apaixonada por aprendizado contínuo e tecnologia 💜
-### 🎓 Graduanda em **Ciência da Computação.** 
-### 🌱 Em constante evolução, estudando **Arquitetura de Software** e **Cibersegurança**, com foco em **Segurança de Dados.** 
-### 🔭 Atualmente sou Analista de Gestão de Eficiência na Bradesco Seguros. 
-### 🚀 Entusiasmada e determinada a construir uma carreira sólida em dados e segurança. 
+###Graduada em Ciência Contábeis e Graduanda em Análise e Desenvolvimento de Sistemas.
+
+
+
+###🌱 Em constante evolução nas áreas de Data Science, Engenharia de Dados e Segurança da Informação, com foco em Python, SQL, Machine Learning, estatística e arquitetura de dados.
+
+
+
+###🔭 Experiência corporativa em grande escala no Bradesco Seguros, atuando como Analista de Gestão de Eficiência (até 08/2025).
+
+
+
+###🚀 Data Scientist e futura Engenheira de Dados, focada em construir pipelines de dados, modelos analíticos e soluções escaláveis para apoiar decisões estratégicas baseadas em dados.
+
+ 
 ### 📫 Você pode me encontrar através: 
 ### 📥 www.linkedin.com/in/ssantanamilena  
 ### 📬 miimillena28@gmail.com  
