@@ -2,19 +2,19 @@
 
 ## **`Data Scientist`**  |  **`Segurança de dados`**    
 💻.🔐.☁️.📊   
-###Graduada em Ciência Contábeis e Graduanda em Análise e Desenvolvimento de Sistemas.
+### Graduada em Ciência Contábeis e Graduanda em Análise e Desenvolvimento de Sistemas.
 
 
 
-###🌱 Em constante evolução nas áreas de Data Science, Engenharia de Dados e Segurança da Informação, com foco em Python, SQL, Machine Learning, estatística e arquitetura de dados.
+### 🌱 Em constante evolução nas áreas de Data Science, Engenharia de Dados e Segurança da Informação, com foco em Python, SQL, Machine Learning, estatística e arquitetura de dados.
 
 
 
-###🔭 Experiência corporativa em grande escala no Bradesco Seguros, atuando como Analista de Gestão de Eficiência (até 08/2025).
+### 🔭 Experiência corporativa em grande escala no Bradesco Seguros, atuando como Analista de Gestão de Eficiência (até 08/2025).
 
 
 
-###🚀 Data Scientist e futura Engenheira de Dados, focada em construir pipelines de dados, modelos analíticos e soluções escaláveis para apoiar decisões estratégicas baseadas em dados.
+### 🚀 Data Scientist e futura Engenheira de Dados, focada em construir pipelines de dados, modelos analíticos e soluções escaláveis para apoiar decisões estratégicas baseadas em dados.
 
  
 ### 📫 Você pode me encontrar através: 
