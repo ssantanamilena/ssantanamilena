@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou a Milena
 
-## **`Cientista de dados`**  |  **`Segurança de dados`**    
+## **`Analise de dados`**  |  **`Segurança de dados`**    
 💻.🔐.☁️.📊   
 ### Graduada em Ciência Contábeis e Graduanda em Análise e Desenvolvimento de Sistemas.
 
