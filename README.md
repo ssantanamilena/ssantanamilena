@@ -2,7 +2,7 @@
 
 ## **`Análise de dados`**  |  **`Segurança de dados`**    
 💻.🔐.☁️.📊   
-### Graduada em Ciência Contábeis e Graduanda em Análise e Desenvolvimento de Sistemas.
+### Graduanda em Ciência Contábeis (7º Semestre) e Análise e Desenvolvimento de Sistemas.
 
 
 
