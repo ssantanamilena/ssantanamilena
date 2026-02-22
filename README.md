@@ -10,7 +10,7 @@
 
 
 
-### 🔭 Experiência corporativa em grande escala no Bradesco Seguros, atuando como Analista de Gestão de Eficiência (até 08/2025).
+### 🔭 Experiência corporativa em grande escala no Bradesco Seguros, atuando como Analista op. Analytics & Bi (até 08/2025).
 
 
 
