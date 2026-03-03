@@ -6,15 +6,15 @@
 
 
 
-### 🌱 Em constante evolução nas áreas de Ciência de dados, Engenharia de Dados e Segurança da Informação, com foco em Python, SQL, Machine Learning, estatística e arquitetura de dados.
+### 🌱 Em constante evolução nas áreas de Engenharia de Dados e Segurança da Informação.
 
 
 
-### 🔭 Experiência corporativa em grande escala no Bradesco Seguros, atuando como Analista op. Analytics & Bi (até 08/2025).
+### 🔭 Experiência corporativa em grande escala no cargo de Analista de Negócio(Atuando na área de Analytics & Bi).
 
 
 
-### 🚀 Data Scientist e futura Engenheira de Dados, focada em construir pipelines de dados, modelos analíticos e soluções escaláveis para apoiar decisões estratégicas baseadas em dados.
+### 🚀 Futura Engenheira de Dados, focada em construir pipelines de dados, modelos analíticos e soluções escaláveis para apoiar decisões estratégicas baseadas em dados.
 
  
 ### 📫 Você pode me encontrar através: 
