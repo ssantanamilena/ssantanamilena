@@ -1,16 +1,16 @@
 # Olá 👋, Eu sou a Milena
 
-## **`Análise de dados`**  |  **`Segurança de dados`**    
+## **`Qualidade de dados`**  |  **`Governança de dados`** | **`Segurança de dados`**   
 💻.🔐.☁️.📊   
-### Graduanda em Ciência Contábeis (7º Semestre) e Análise e Desenvolvimento de Sistemas.
+### Graduanda em Ciência Contábeis (7º Semestre) e Banco de dados.
 
 
 
-### 🌱 Em constante evolução nas áreas de Engenharia de Dados e Segurança da Informação.
+### 🌱 Em constante evolução nas áreas de Governança, Qualidade e Segurança da Informação.
 
 
 
-### 🔭 Experiência corporativa em grande escala no cargo de Analista de Negócio(Atuando na área de Analytics & Bi).
+### 🔭 Experiência corporativa em grande escala no cargo de Analista de Inteligência Negócio(Atuando na área de Qualidade de dados & Bi).
 
 
 
